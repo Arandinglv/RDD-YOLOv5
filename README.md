@@ -15,6 +15,5 @@ The Road Defect Dataset is uploaded on BaiduNetDisk:
 > CODE: 5tjh
 
 More information about dataset is here: https://github.com/arandinglv/RoadDefectDataset
-![Uploading RDD-YOLOv5 structure.svg…]()
 
 Noted that files about visualization of P-R-PR are packed in the https://github.com/arandinglv/RDD-YOLOv5/tree/main/p_r_pr_f1_painter, more information can be referred the PDF file. 
