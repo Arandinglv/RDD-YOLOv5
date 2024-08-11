@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
@@ -495,3 +496,6 @@ For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https:/
 =======
 # RDD-YOLOv5
 >>>>>>> f83bebd1436ec5159b0000c98548832281502563
+=======
+# RDD-YOLOv5
+>>>>>>> 6262bb30769e9e0a47c4540e5cba6d6b5fc06125
